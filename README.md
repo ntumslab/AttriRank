@@ -12,12 +12,12 @@ A reference implementation of *AttriRank* in the paper:<br>
 ### Example
 Run AttriRank on sample graph with features, using damp [0.2, 0.5, 0.8]:
 
-    python main.py --damp 0.2 0.5 0.8 --inputgraph sample/graph.edgelist --inputfeature sample/graph.feature
+    python src/main.py --damp 0.2 0.5 0.8 --inputgraph sample/graph.edgelist --inputfeature sample/graph.feature
 
 #### Options
 Check out optional arguments such as AttriRank with prior, different similarity kernels by:
 
-    python main.py --help
+    python src/main.py --help
 
 ### Inputs
 Supported graph format is the edgelist:

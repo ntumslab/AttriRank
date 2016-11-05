@@ -1,4 +1,5 @@
 # AttriRank
+[![Build Status](https://travis-ci.org/ntumslab/AttriRank.svg?branch=master)](https://travis-ci.org/ntumslab/AttriRank)
 
 AttriRank is an unsupervised ranking model that considers not only graph structure but also the attributes of nodes.
 

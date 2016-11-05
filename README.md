@@ -40,15 +40,15 @@ A comma-separated table of ranking scores with columns: [node_id, damp1, damp2, 
 
 where score_1 is the ranking score of node 0 using AttriRank with damp 0.2.
 
-### Requirements
+## Requirements
 Install all dependencies:
 
     pip install -r requirements.txt
 
-### Citing
+## Citing
 
 If you find *AttriRank* useful in your research, please consider citing the paper: 
 
-### Miscellaneous
+## Miscellaneous
 
 If having any questions, please contact us at <>

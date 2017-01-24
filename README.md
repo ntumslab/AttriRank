@@ -48,8 +48,10 @@ Install all dependencies:
 
 ## Citing
 
-If you find *AttriRank* useful in your research, please consider citing the paper: 
+If you find *AttriRank* useful in your research, please consider citing the paper:
+
+    @inproceedings{}
 
 ## Miscellaneous
 
-If having any questions, please contact us at <>
+If having any questions, please contact us at <chinchi@iis.sinica.edu.tw>

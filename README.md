@@ -50,7 +50,13 @@ Install all dependencies:
 
 If you find *AttriRank* useful in your research, please consider citing the paper:
 
-    @inproceedings{}
+    @inproceedings{Hsu:2017:URU:3018661.3018668,
+         author = {Hsu, Chin-Chi and Lai, Yi-An and Chen, Wen-Hao and Feng, Ming-Han and Lin, Shou-De},
+         title = {Unsupervised Ranking Using Graph Structures and Node Attributes},
+         booktitle = {Proceedings of the Tenth ACM International Conference on Web Search and Data Mining},
+         series = {WSDM '17},
+         year = {2017},
+        } 
 
 ## Miscellaneous
 

@@ -3,7 +3,7 @@
 
 AttriRank is an unsupervised ranking model that considers not only graph structure but also the attributes of nodes.
 
-A reference implementation of *AttriRank* in the paper:<br>
+A reference implementation of *AttriRank* in the paper (please see the file - attrirank.pdf):<br>
 > Unsupervised Ranking using Graph Structures and Node Attributes<br>
 > Chin-Chi Hsu, Yi-An Lai, Wen-Hao Chen, Ming-Han Feng, and Shou-De Lin<br>
 > Web Search and Data Mining (WSDM), 2017 <br>

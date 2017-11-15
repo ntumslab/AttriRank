@@ -60,5 +60,5 @@ If you find *AttriRank* useful in your research, please consider citing the pape
 
 ## Miscellaneous
 
-If having any questions about the paper, please contact us at <chinchi@iis.sinica.edu.tw>.<br>
+If having any questions about the paper, please contact us at <chinchi@iis.sinica.edu.tw>.<br> 
 If having any questions about codes, please contact us at <b99202031@ntu.edu.tw>.
